@@ -22,7 +22,7 @@ body{
     font-family: "Muli", sans-serif;
     margin: auto;
     text-align: center;
-    background-size:150%;
+    background-size:auto;
 }
 a{
     border-bottom: 1px dotted;
