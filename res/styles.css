@@ -221,7 +221,7 @@ h1 {
   }
 }
 
-.socialmedia,td {
-  padding: 15px;
+.socialmedia td {
+  padding: 5px;
   text-align: left;
 }
